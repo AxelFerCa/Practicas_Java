@@ -1,4 +1,4 @@
-public class ejer {
+public class Ejer {
     public static void main(String[] args) {
 
         System.out.println("hola mundo soy axel");
